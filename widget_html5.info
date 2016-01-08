@@ -1,0 +1,6 @@
+name = Widget HTML5
+description = Replaces numeric field widgets and date widgets with html5 phone compatible
+core = 7.x
+package = Field
+# Added automatically by builddrupalmodule script
+version = 1.0
